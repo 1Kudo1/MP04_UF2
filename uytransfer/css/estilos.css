@@ -1,0 +1,33 @@
+nav {
+	background-color: gray;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	border: black solid 4px;
+}
+
+nav h1 {
+	width: 70%;
+	float: left;
+	line-height: 60px;
+	padding-left: 80px;	
+	font-size: 180%;
+}
+
+a{
+	line-height: 115px;
+}
+
+a:link, a:visited, a:active {
+	color: black;
+}
+
+form{
+	padding-top: 200px;
+}
+
+.formulario{
+	text-align: center;
+	padding-bottom: 10px;
+}
