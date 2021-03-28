@@ -7,3 +7,10 @@
 	</head>
 
 	<body>
+
+		<nav>
+			<h1>Uy!Transfer</h1>
+			<a href="upload.php">Enviar archivo</a>
+			<a href="">|</a>
+			<a href="file.php">Mis últimos archivos</a>
+		</nav>

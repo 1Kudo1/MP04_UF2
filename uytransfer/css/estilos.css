@@ -27,7 +27,29 @@ form{
 	padding-top: 200px;
 }
 
+div{
+	padding-top: 100px;
+	padding-left: 50px;
+}
+
 .formulario{
 	text-align: center;
 	padding-bottom: 10px;
+}
+
+img{
+	width: 300px;
+	float: left;
+	margin-right: 200px;
+	border: black solid 2px;
+}
+
+.titulo_files{
+	padding-top: 50px;
+	padding-bottom: 50px;
+	text-align: center;
+}
+
+.files{
+	text-align: center;
 }
